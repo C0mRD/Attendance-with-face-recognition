@@ -1,2 +1,2 @@
-# Attendence-with-face-recognition
+# Attendance-with-face-recognition
 Face Recognition Attandance System with Opencv
